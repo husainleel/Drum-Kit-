@@ -7,7 +7,6 @@ buttonAnimation(this.innerHTML);
 });
 }
 
-
 // keyboard detect
 document.addEventListener("keydown", function(event) {
   makeSound(event.key) ;
